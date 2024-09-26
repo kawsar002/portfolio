@@ -641,6 +641,12 @@ section{
     line-height: 30px;
     margin-bottom: 2rem;
 }
+.contact-text p{
+    margin: 10px 0;
+}
+.ontact-list li i{
+    margin-left: 10px;
+}
 .contact-list{
     margin-bottom: 3rem;
 }
